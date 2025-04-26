@@ -1,0 +1,201 @@
+title,company,location,Salary in $,Posted_date,expected_salary,min_salary,max_salary
+Software Engineer,Upvest,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Senior Software Engineer KSPM,Cast AI,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Software Engineer III,Jack Henry,Probably worldwide,55000-100000,2025-04-24,77500,55000,100000
+Back End Developer Winna.com,Winna,Worldwide,40000-80000,2025-04-16,60000,40000,80000
+Software Engineer Infrastructure,Gauntlet,Worldwide,60000-80000,2025-04-23,70000,60000,80000
+Software Engineer Data,Gauntlet,Worldwide,70000-120000,2025-04-23,95000,70000,120000
+Software Engineer III Frontend,Shippo,United States,75000-120000,2025-04-23,97500,75000,120000
+HQ Senior Frontend Engineer,Job&Talent,"Madrid HQ, ES",70000-120000,2025-04-23,95000,70000,120000
+Software Engineer Microservices,Kong,Toronto,63000-85000,2025-04-23,74000,63000,85000
+Senior Fullstack Engineer,MoonPay,Probably worldwide,68000-98000,2025-04-22,83000,68000,98000
+Senior React Full stack Developer,Lemon.io,United States,60000-230000,2025-04-22,145000,60000,230000
+Technical Product Manager Developer Platform,TrueML,United States,63000-88000,2025-04-22,75500,63000,88000
+DevOps Engineer,ScaleTech,Worldwide,65000-85000,2025-04-21,75000,65000,85000
+Principal Software Engineer,Shippo,United States,65000-120000,2025-04-19,92500,65000,120000
+Staff Backend Engineer,Dapper Labs,Worldwide,70000-90000,2025-04-18,80000,70000,90000
+Software Engineer,Serotonin,Probably worldwide,70000-120000,2025-04-17,95000,70000,120000
+Solidity Engineer Smart Contracts Engineer,Sei Labs,Probably worldwide,55000-100000,2025-04-17,77500,55000,100000
+Full Stack Engineer,Stealth,Contractor,60000-180000,2025-04-09,120000,60000,180000
+Staff Software Engineer Metrics US,Weights & Biases,United States,60000-80000,2025-04-15,70000,60000,80000
+Kubernetes Engineer,"00100 LEIDOS, INC.",Remote/Teleworker US,60000-80000,2025-04-15,70000,60000,80000
+Software Engineer,Upvest,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Senior Software Engineer KSPM,Cast AI,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Software Engineer III,Jack Henry,Probably worldwide,55000-100000,2025-04-24,77500,55000,100000
+Back End Developer Winna.com,Winna,Worldwide,40000-80000,2025-04-16,60000,40000,80000
+Software Engineer Infrastructure,Gauntlet,Worldwide,60000-80000,2025-04-23,70000,60000,80000
+Software Engineer Data,Gauntlet,Worldwide,70000-120000,2025-04-23,95000,70000,120000
+Software Engineer III Frontend,Shippo,United States,75000-120000,2025-04-23,97500,75000,120000
+HQ Senior Frontend Engineer,Job&Talent,"Madrid HQ, ES",70000-120000,2025-04-23,95000,70000,120000
+Software Engineer Microservices,Kong,Toronto,63000-85000,2025-04-23,74000,63000,85000
+Senior Fullstack Engineer,MoonPay,Probably worldwide,68000-98000,2025-04-22,83000,68000,98000
+Senior React Full stack Developer,Lemon.io,United States,60000-230000,2025-04-22,145000,60000,230000
+Technical Product Manager Developer Platform,TrueML,United States,63000-88000,2025-04-22,75500,63000,88000
+DevOps Engineer,ScaleTech,Worldwide,65000-85000,2025-04-21,75000,65000,85000
+Principal Software Engineer,Shippo,United States,65000-120000,2025-04-19,92500,65000,120000
+Staff Backend Engineer,Dapper Labs,Worldwide,70000-90000,2025-04-18,80000,70000,90000
+Software Engineer,Serotonin,Probably worldwide,70000-120000,2025-04-17,95000,70000,120000
+Solidity Engineer Smart Contracts Engineer,Sei Labs,Probably worldwide,55000-100000,2025-04-17,77500,55000,100000
+Full Stack Engineer,Stealth,Contractor,60000-180000,2025-04-09,120000,60000,180000
+Staff Software Engineer Metrics US,Weights & Biases,United States,60000-80000,2025-04-15,70000,60000,80000
+Kubernetes Engineer,"00100 LEIDOS, INC.",Remote/Teleworker US,60000-80000,2025-04-15,70000,60000,80000
+Software Engineer,Upvest,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Senior Software Engineer KSPM,Cast AI,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Software Engineer III,Jack Henry,Probably worldwide,55000-100000,2025-04-24,77500,55000,100000
+Back End Developer Winna.com,Winna,Worldwide,40000-80000,2025-04-16,60000,40000,80000
+Software Engineer Infrastructure,Gauntlet,Worldwide,60000-80000,2025-04-23,70000,60000,80000
+Software Engineer Data,Gauntlet,Worldwide,70000-120000,2025-04-23,95000,70000,120000
+Software Engineer III Frontend,Shippo,United States,75000-120000,2025-04-23,97500,75000,120000
+HQ Senior Frontend Engineer,Job&Talent,"Madrid HQ, ES",70000-120000,2025-04-23,95000,70000,120000
+Software Engineer Microservices,Kong,Toronto,63000-85000,2025-04-23,74000,63000,85000
+Senior Fullstack Engineer,MoonPay,Probably worldwide,68000-98000,2025-04-22,83000,68000,98000
+Senior React Full stack Developer,Lemon.io,United States,60000-230000,2025-04-22,145000,60000,230000
+Technical Product Manager Developer Platform,TrueML,United States,63000-88000,2025-04-22,75500,63000,88000
+DevOps Engineer,ScaleTech,Worldwide,65000-85000,2025-04-21,75000,65000,85000
+Principal Software Engineer,Shippo,United States,65000-120000,2025-04-19,92500,65000,120000
+Staff Backend Engineer,Dapper Labs,Worldwide,70000-90000,2025-04-18,80000,70000,90000
+Software Engineer,Serotonin,Probably worldwide,70000-120000,2025-04-17,95000,70000,120000
+Solidity Engineer Smart Contracts Engineer,Sei Labs,Probably worldwide,55000-100000,2025-04-17,77500,55000,100000
+Full Stack Engineer,Stealth,Contractor,60000-180000,2025-04-09,120000,60000,180000
+Staff Software Engineer Metrics US,Weights & Biases,United States,60000-80000,2025-04-15,70000,60000,80000
+Kubernetes Engineer,"00100 LEIDOS, INC.",Remote/Teleworker US,60000-80000,2025-04-15,70000,60000,80000
+Software Engineer,Upvest,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Senior Software Engineer KSPM,Cast AI,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Software Engineer III,Jack Henry,Probably worldwide,55000-100000,2025-04-24,77500,55000,100000
+Back End Developer Winna.com,Winna,Worldwide,40000-80000,2025-04-16,60000,40000,80000
+Software Engineer Infrastructure,Gauntlet,Worldwide,60000-80000,2025-04-23,70000,60000,80000
+Software Engineer Data,Gauntlet,Worldwide,70000-120000,2025-04-23,95000,70000,120000
+Software Engineer III Frontend,Shippo,United States,75000-120000,2025-04-23,97500,75000,120000
+HQ Senior Frontend Engineer,Job&Talent,"Madrid HQ, ES",70000-120000,2025-04-23,95000,70000,120000
+Software Engineer Microservices,Kong,Toronto,63000-85000,2025-04-23,74000,63000,85000
+Senior Fullstack Engineer,MoonPay,Probably worldwide,68000-98000,2025-04-22,83000,68000,98000
+Senior React Full stack Developer,Lemon.io,United States,60000-230000,2025-04-22,145000,60000,230000
+Technical Product Manager Developer Platform,TrueML,United States,63000-88000,2025-04-22,75500,63000,88000
+DevOps Engineer,ScaleTech,Worldwide,65000-85000,2025-04-21,75000,65000,85000
+Principal Software Engineer,Shippo,United States,65000-120000,2025-04-19,92500,65000,120000
+Staff Backend Engineer,Dapper Labs,Worldwide,70000-90000,2025-04-18,80000,70000,90000
+Software Engineer,Serotonin,Probably worldwide,70000-120000,2025-04-17,95000,70000,120000
+Solidity Engineer Smart Contracts Engineer,Sei Labs,Probably worldwide,55000-100000,2025-04-17,77500,55000,100000
+Full Stack Engineer,Stealth,Contractor,60000-180000,2025-04-09,120000,60000,180000
+Staff Software Engineer Metrics US,Weights & Biases,United States,60000-80000,2025-04-15,70000,60000,80000
+Kubernetes Engineer,"00100 LEIDOS, INC.",Remote/Teleworker US,60000-80000,2025-04-15,70000,60000,80000
+Software Engineer,Upvest,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Senior Software Engineer KSPM,Cast AI,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Software Engineer III,Jack Henry,Probably worldwide,55000-100000,2025-04-24,77500,55000,100000
+Back End Developer Winna.com,Winna,Worldwide,40000-80000,2025-04-16,60000,40000,80000
+Software Engineer Infrastructure,Gauntlet,Worldwide,60000-80000,2025-04-23,70000,60000,80000
+Software Engineer Data,Gauntlet,Worldwide,70000-120000,2025-04-23,95000,70000,120000
+Software Engineer III Frontend,Shippo,United States,75000-120000,2025-04-23,97500,75000,120000
+HQ Senior Frontend Engineer,Job&Talent,"Madrid HQ, ES",70000-120000,2025-04-23,95000,70000,120000
+Software Engineer Microservices,Kong,Toronto,63000-85000,2025-04-23,74000,63000,85000
+Senior Fullstack Engineer,MoonPay,Probably worldwide,68000-98000,2025-04-22,83000,68000,98000
+Senior React Full stack Developer,Lemon.io,United States,60000-230000,2025-04-22,145000,60000,230000
+Technical Product Manager Developer Platform,TrueML,United States,63000-88000,2025-04-22,75500,63000,88000
+DevOps Engineer,ScaleTech,Worldwide,65000-85000,2025-04-21,75000,65000,85000
+Principal Software Engineer,Shippo,United States,65000-120000,2025-04-19,92500,65000,120000
+Staff Backend Engineer,Dapper Labs,Worldwide,70000-90000,2025-04-18,80000,70000,90000
+Software Engineer,Serotonin,Probably worldwide,70000-120000,2025-04-17,95000,70000,120000
+Solidity Engineer Smart Contracts Engineer,Sei Labs,Probably worldwide,55000-100000,2025-04-17,77500,55000,100000
+Full Stack Engineer,Stealth,Contractor,60000-180000,2025-04-09,120000,60000,180000
+Staff Software Engineer Metrics US,Weights & Biases,United States,60000-80000,2025-04-15,70000,60000,80000
+Kubernetes Engineer,"00100 LEIDOS, INC.",Remote/Teleworker US,60000-80000,2025-04-15,70000,60000,80000
+Software Engineer,Upvest,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Senior Software Engineer KSPM,Cast AI,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Software Engineer III,Jack Henry,Probably worldwide,55000-100000,2025-04-24,77500,55000,100000
+Back End Developer Winna.com,Winna,Worldwide,40000-80000,2025-04-16,60000,40000,80000
+Software Engineer Infrastructure,Gauntlet,Worldwide,60000-80000,2025-04-23,70000,60000,80000
+Software Engineer Data,Gauntlet,Worldwide,70000-120000,2025-04-23,95000,70000,120000
+Software Engineer III Frontend,Shippo,United States,75000-120000,2025-04-23,97500,75000,120000
+HQ Senior Frontend Engineer,Job&Talent,"Madrid HQ, ES",70000-120000,2025-04-23,95000,70000,120000
+Software Engineer Microservices,Kong,Toronto,63000-85000,2025-04-23,74000,63000,85000
+Senior Fullstack Engineer,MoonPay,Probably worldwide,68000-98000,2025-04-22,83000,68000,98000
+Senior React Full stack Developer,Lemon.io,United States,60000-230000,2025-04-22,145000,60000,230000
+Technical Product Manager Developer Platform,TrueML,United States,63000-88000,2025-04-22,75500,63000,88000
+DevOps Engineer,ScaleTech,Worldwide,65000-85000,2025-04-21,75000,65000,85000
+Principal Software Engineer,Shippo,United States,65000-120000,2025-04-19,92500,65000,120000
+Staff Backend Engineer,Dapper Labs,Worldwide,70000-90000,2025-04-18,80000,70000,90000
+Software Engineer,Serotonin,Probably worldwide,70000-120000,2025-04-17,95000,70000,120000
+Solidity Engineer Smart Contracts Engineer,Sei Labs,Probably worldwide,55000-100000,2025-04-17,77500,55000,100000
+Full Stack Engineer,Stealth,Contractor,60000-180000,2025-04-09,120000,60000,180000
+Staff Software Engineer Metrics US,Weights & Biases,United States,60000-80000,2025-04-15,70000,60000,80000
+Kubernetes Engineer,"00100 LEIDOS, INC.",Remote/Teleworker US,60000-80000,2025-04-15,70000,60000,80000
+Software Engineer,Upvest,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Senior Software Engineer KSPM,Cast AI,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Software Engineer III,Jack Henry,Probably worldwide,55000-100000,2025-04-24,77500,55000,100000
+Back End Developer Winna.com,Winna,Worldwide,40000-80000,2025-04-16,60000,40000,80000
+Software Engineer Infrastructure,Gauntlet,Worldwide,60000-80000,2025-04-23,70000,60000,80000
+Software Engineer Data,Gauntlet,Worldwide,70000-120000,2025-04-23,95000,70000,120000
+Software Engineer III Frontend,Shippo,United States,75000-120000,2025-04-23,97500,75000,120000
+HQ Senior Frontend Engineer,Job&Talent,"Madrid HQ, ES",70000-120000,2025-04-23,95000,70000,120000
+Software Engineer Microservices,Kong,Toronto,63000-85000,2025-04-23,74000,63000,85000
+Senior Fullstack Engineer,MoonPay,Probably worldwide,68000-98000,2025-04-22,83000,68000,98000
+Senior React Full stack Developer,Lemon.io,United States,60000-230000,2025-04-22,145000,60000,230000
+Technical Product Manager Developer Platform,TrueML,United States,63000-88000,2025-04-22,75500,63000,88000
+DevOps Engineer,ScaleTech,Worldwide,65000-85000,2025-04-21,75000,65000,85000
+Principal Software Engineer,Shippo,United States,65000-120000,2025-04-19,92500,65000,120000
+Staff Backend Engineer,Dapper Labs,Worldwide,70000-90000,2025-04-18,80000,70000,90000
+Software Engineer,Serotonin,Probably worldwide,70000-120000,2025-04-17,95000,70000,120000
+Solidity Engineer Smart Contracts Engineer,Sei Labs,Probably worldwide,55000-100000,2025-04-17,77500,55000,100000
+Full Stack Engineer,Stealth,Contractor,60000-180000,2025-04-09,120000,60000,180000
+Staff Software Engineer Metrics US,Weights & Biases,United States,60000-80000,2025-04-15,70000,60000,80000
+Kubernetes Engineer,"00100 LEIDOS, INC.",Remote/Teleworker US,60000-80000,2025-04-15,70000,60000,80000
+Software Engineer,Upvest,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Senior Software Engineer KSPM,Cast AI,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Software Engineer III,Jack Henry,Probably worldwide,55000-100000,2025-04-24,77500,55000,100000
+Back End Developer Winna.com,Winna,Worldwide,40000-80000,2025-04-16,60000,40000,80000
+Software Engineer Infrastructure,Gauntlet,Worldwide,60000-80000,2025-04-23,70000,60000,80000
+Software Engineer Data,Gauntlet,Worldwide,70000-120000,2025-04-23,95000,70000,120000
+Software Engineer III Frontend,Shippo,United States,75000-120000,2025-04-23,97500,75000,120000
+HQ Senior Frontend Engineer,Job&Talent,"Madrid HQ, ES",70000-120000,2025-04-23,95000,70000,120000
+Software Engineer Microservices,Kong,Toronto,63000-85000,2025-04-23,74000,63000,85000
+Senior Fullstack Engineer,MoonPay,Probably worldwide,68000-98000,2025-04-22,83000,68000,98000
+Senior React Full stack Developer,Lemon.io,United States,60000-230000,2025-04-22,145000,60000,230000
+Technical Product Manager Developer Platform,TrueML,United States,63000-88000,2025-04-22,75500,63000,88000
+DevOps Engineer,ScaleTech,Worldwide,65000-85000,2025-04-21,75000,65000,85000
+Principal Software Engineer,Shippo,United States,65000-120000,2025-04-19,92500,65000,120000
+Staff Backend Engineer,Dapper Labs,Worldwide,70000-90000,2025-04-18,80000,70000,90000
+Software Engineer,Serotonin,Probably worldwide,70000-120000,2025-04-17,95000,70000,120000
+Solidity Engineer Smart Contracts Engineer,Sei Labs,Probably worldwide,55000-100000,2025-04-17,77500,55000,100000
+Full Stack Engineer,Stealth,Contractor,60000-180000,2025-04-09,120000,60000,180000
+Staff Software Engineer Metrics US,Weights & Biases,United States,60000-80000,2025-04-15,70000,60000,80000
+Kubernetes Engineer,"00100 LEIDOS, INC.",Remote/Teleworker US,60000-80000,2025-04-15,70000,60000,80000
+Software Engineer,Upvest,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Senior Software Engineer KSPM,Cast AI,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Software Engineer III,Jack Henry,Probably worldwide,55000-100000,2025-04-24,77500,55000,100000
+Back End Developer Winna.com,Winna,Worldwide,40000-80000,2025-04-16,60000,40000,80000
+Software Engineer Infrastructure,Gauntlet,Worldwide,60000-80000,2025-04-23,70000,60000,80000
+Software Engineer Data,Gauntlet,Worldwide,70000-120000,2025-04-23,95000,70000,120000
+Software Engineer III Frontend,Shippo,United States,75000-120000,2025-04-23,97500,75000,120000
+HQ Senior Frontend Engineer,Job&Talent,"Madrid HQ, ES",70000-120000,2025-04-23,95000,70000,120000
+Software Engineer Microservices,Kong,Toronto,63000-85000,2025-04-23,74000,63000,85000
+Senior Fullstack Engineer,MoonPay,Probably worldwide,68000-98000,2025-04-22,83000,68000,98000
+Senior React Full stack Developer,Lemon.io,United States,60000-230000,2025-04-22,145000,60000,230000
+Technical Product Manager Developer Platform,TrueML,United States,63000-88000,2025-04-22,75500,63000,88000
+DevOps Engineer,ScaleTech,Worldwide,65000-85000,2025-04-21,75000,65000,85000
+Principal Software Engineer,Shippo,United States,65000-120000,2025-04-19,92500,65000,120000
+Staff Backend Engineer,Dapper Labs,Worldwide,70000-90000,2025-04-18,80000,70000,90000
+Software Engineer,Serotonin,Probably worldwide,70000-120000,2025-04-17,95000,70000,120000
+Solidity Engineer Smart Contracts Engineer,Sei Labs,Probably worldwide,55000-100000,2025-04-17,77500,55000,100000
+Full Stack Engineer,Stealth,Contractor,60000-180000,2025-04-09,120000,60000,180000
+Staff Software Engineer Metrics US,Weights & Biases,United States,60000-80000,2025-04-15,70000,60000,80000
+Kubernetes Engineer,"00100 LEIDOS, INC.",Remote/Teleworker US,60000-80000,2025-04-15,70000,60000,80000
+Software Engineer,Upvest,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Senior Software Engineer KSPM,Cast AI,Probably worldwide,70000-120000,2025-04-24,95000,70000,120000
+Software Engineer III,Jack Henry,Probably worldwide,55000-100000,2025-04-24,77500,55000,100000
+Back End Developer Winna.com,Winna,Worldwide,40000-80000,2025-04-16,60000,40000,80000
+Software Engineer Infrastructure,Gauntlet,Worldwide,60000-80000,2025-04-23,70000,60000,80000
+Software Engineer Data,Gauntlet,Worldwide,70000-120000,2025-04-23,95000,70000,120000
+Software Engineer III Frontend,Shippo,United States,75000-120000,2025-04-23,97500,75000,120000
+HQ Senior Frontend Engineer,Job&Talent,"Madrid HQ, ES",70000-120000,2025-04-23,95000,70000,120000
+Software Engineer Microservices,Kong,Toronto,63000-85000,2025-04-23,74000,63000,85000
+Senior Fullstack Engineer,MoonPay,Probably worldwide,68000-98000,2025-04-22,83000,68000,98000
+Senior React Full stack Developer,Lemon.io,United States,60000-230000,2025-04-22,145000,60000,230000
+Technical Product Manager Developer Platform,TrueML,United States,63000-88000,2025-04-22,75500,63000,88000
+DevOps Engineer,ScaleTech,Worldwide,65000-85000,2025-04-21,75000,65000,85000
+Principal Software Engineer,Shippo,United States,65000-120000,2025-04-19,92500,65000,120000
+Staff Backend Engineer,Dapper Labs,Worldwide,70000-90000,2025-04-18,80000,70000,90000
+Software Engineer,Serotonin,Probably worldwide,70000-120000,2025-04-17,95000,70000,120000
+Solidity Engineer Smart Contracts Engineer,Sei Labs,Probably worldwide,55000-100000,2025-04-17,77500,55000,100000
+Full Stack Engineer,Stealth,Contractor,60000-180000,2025-04-09,120000,60000,180000
+Staff Software Engineer Metrics US,Weights & Biases,United States,60000-80000,2025-04-15,70000,60000,80000
+Kubernetes Engineer,"00100 LEIDOS, INC.",Remote/Teleworker US,60000-80000,2025-04-15,70000,60000,80000
