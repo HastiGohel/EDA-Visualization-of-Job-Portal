@@ -71,7 +71,7 @@ This project scrapes remote job listings, cleans and stores the data in a CSV fi
 
 ## 👥 Project Members
 
-- **Hasti GOHEL** – Data Scraping, , Visualizations, Documentation and SQL Analysis  
+- **HASTI GOHEL** – Data Scraping, , Visualizations, Documentation and SQL Analysis  
 - **AMAN PAL** – Cleaning, EDA and Deployment
 
 
