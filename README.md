@@ -69,6 +69,10 @@ This project scrapes remote job listings, cleans and stores the data in a CSV fi
 - 🧠 **Keyword Trends:** Popular keywords in job titles include "Software Engineer,","Engineer,","Senior fullstack," and “Developer.”
 - 📈 **Time-Based Trends:** There’s a clear rise in job postings during specific year after Covid.
 
+## Links:
+  **Group Explanation:** https://drive.google.com/file/d/1cui8e4fSTBukP9zESIOsa-zhDFnZp23G/view?usp=sharing
+  **Quention Answer:** https://drive.google.com/file/d/1bbXECO7PgUC4UAhwXdHO2ZBMmgjiQp6R/view?usp=sharing
+  
 ## 👥 Project Members
 
 - **HASTI GOHEL** – Data Scraping, , Visualizations, Documentation and SQL Analysis  
